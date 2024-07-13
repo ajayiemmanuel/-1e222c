@@ -5,7 +5,7 @@ python3.9 -m venv venv
 
 # activate the virtual environment
 source venv/bin/activate
-
+pip install django
 # install all deps in the venv
 pip install -r requirements.txt
 
