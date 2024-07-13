@@ -10,7 +10,7 @@ pip install django
 pip install pillow
 pip install six
 pip install -U django-jazzmin
-pip install psycopg2==2.7.4
+pip install psycopg2
 
 # collect static files using the Python interpreter from venv
 python manage.py collectstatic --noinput
